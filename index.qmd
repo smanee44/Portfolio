@@ -6,7 +6,7 @@ Hello I am Sarena. I recently graduated with a Bachelor of Science from Northern
 ![Graduation Photo](images/grad13.JPG){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Historical ecosystems map of a large region in the western United States."}
 I like many outdoor activities including trapping and hunting. 
 
-```{r plot, fig.width=6, fig.height=6}
+```{r plot, fig.width=5, fig.height=5}
 #| warning: false
 #| echo: false
 
