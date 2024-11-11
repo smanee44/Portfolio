@@ -1,11 +1,17 @@
 ---
-title: "Quarto"
+title: "Sarena Manee Portfolio"
 ---
+Hello I am Sarena. I recently graduated with a Bachelor of Science from Northern Michigan University.I plan to pursue a teaching certification.
 
-This is a Quarto website.
+![Graduation Photo](images/grad13.JPG){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Historical ecosystems map of a large region in the western United States."}
+I like many outdoor activities including trapping and hunting. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+```{r plot, fig.width=6, fig.height=6}
+#| warning: false
+#| echo: false
 
-```{r}
-1 + 1
+plot(iris)
 ```
+
+
+
